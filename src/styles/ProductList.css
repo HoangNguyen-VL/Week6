@@ -1,0 +1,8 @@
+.hover-card {
+    transition: transform 0.2s; /* Hiệu ứng chuyển động */
+  }
+  
+  .hover-card:hover {
+    transform: scale(1.05); /* Phóng to khi hover */
+  }
+  
